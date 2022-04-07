@@ -1,29 +1,34 @@
-# An X-Wing Second Edition Quick Reference Card
+# X-Wing Heroes of the Aturi Cluster (2.07.05) Quick Reference Cards
 
 ![Quick Reference Card](https://nicholas.piegdon.info/stuff/xwing2-quick-reference.jpg)
 
-The single-page quick reference included at the end of the official Rulebook covers most of the simple things (how to get tokens) but left off most of the fiddly, interesting bits (how to spend tokens).
+This is a fork of the excellent [quick reference by Nicholas Piegdon](https://github.com/npiegdon/xwing2-quick-reference), originally for X-Wing 2.0, updated to X-Wing 2.5, and including a summary of all important game-specific rules to the [Heroes of the Aturi Cluster](https://drive.google.com/drive/folders/1vuEwgyzACV01iHs_k4dryoUbWlhCmNVY?fbclid=IwAR1crXrh9q47ywjW5ZM5OZXlKdg3qXeSTOaRZZEovdyjIPDcylPavx86MDk) cooperative campaign.
 
-This version adds a second page and is formatted to be printed (and laminated) as a double-sided reference card.
+## Content
+
+The document consists of 3 double-sided sheets, with the following content:
+
+- A general X-Wing 2.5 rules summary, with two changes relevant to HotAC: the initiative and gas cloud rules (emphasized in blue).
+- A summary of all major devices (bombs, mines, and remotes). (Many of these will never appear in a HotAC campaign, but were included for completeness sake.)
+- A summary of HotAC specific rules, including rules for the extension Ground Assault.
+
+It's recommended to print these sheets double-sided on cardstock and laminate them.  The first sheet could be printed several times, one for each player. The other two sheets probably suffice once.
+
+## Version
+
+All rules are following the [Atomic Mass Games Rules Reference 1.4.1](https://www.atomicmassgames.com/s/SWZ_RulesReference_v141web.pdf) (for the general X-Wing 2.5 rules), as well as the HotAC 2.07.05 release.
 
 ### Where's the PDF?
-Download it from the [Latest Release](https://github.com/npiegdon/xwing2-quick-reference/releases/latest) page.
 
-## New Sections
-
-This supplants the official quick reference by adding the following sections:
-
-- **Tokens**: What they imply and how to spend them.
-- **Maneuvers**: Never confuse Segnor's Loop with Tallon Roll again!  Also sorts out the subtle differences between moving through and overlapping various objects.  Includes a diagram showing each.
-- **Obstacles**: What it means when you hit one and the differences between them.
-- Some front page wording has been updated to clarify a few subtle points.
-
-## Color Dice Font
-
-To add the dice images without breaking up or flowing images around the text, I created a color (emoji) vector font that uses images of the game dice that were Live Traced in illustrator.  `xwing-dice.otf` contains two red and two green dice images, mapped to the characters a, b, c, and d.
+The pdf-file is directly included in the repository, next to the original Adobe Illustrator file.
 
 ## Credits
 
+- **Nicholas Piegdon**, without whose work on the [original X-Wing reference](https://github.com/npiegdon/xwing2-quick-reference) this extended version would never have seen the light of day.
+- **Josh Derksen**, **Shaun Tiernan**, and all other contributors to the fantastic Heroes of the Aturi Cluster campaign. For more information, see:
+    - [The HotAC Facebook Group](https://www.facebook.com/groups/872507722883025)
+    - [The HotAC 2.07.05 release (including Ground Assault)](https://drive.google.com/drive/folders/1vuEwgyzACV01iHs_k4dryoUbWlhCmNVY?fbclid=IwAR1crXrh9q47ywjW5ZM5OZXlKdg3qXeSTOaRZZEovdyjIPDcylPavx86MDk)
+- [Doctor Nsara's quick reference](https://www.reddit.com/r/XWingTMG/comments/t37ozj/i_made_a_xwing_30_rules_quick_reference_sheet_for/), of which I borrowed the great bumping illustrations. 
 - **Fantasy Flight Games** for nearly all of the front page, and, you know... for making the game in the first place.
 - **[geordanr/xwing-miniatures-font](https://github.com/geordanr/xwing-miniatures-font)** for the great token symbol font.
 - Everyone in **[r/XWingTMG](https://www.reddit.com/r/XWingTMG/)** for their feedback and suggestions! 
