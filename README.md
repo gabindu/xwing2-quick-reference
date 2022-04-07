@@ -1,6 +1,6 @@
 # X-Wing Heroes of the Aturi Cluster (2.07.05) Quick Reference Cards
 
-![Quick Reference Card](https://nicholas.piegdon.info/stuff/xwing2-quick-reference.jpg)
+![HotAC Quick Reference Cards](hotac-quick-reference.jpg)
 
 This is a fork of the excellent [quick reference by Nicholas Piegdon](https://github.com/npiegdon/xwing2-quick-reference), originally for X-Wing 2.0, updated to X-Wing 2.5, and including a summary of all important game-specific rules to the [Heroes of the Aturi Cluster](https://drive.google.com/drive/folders/1vuEwgyzACV01iHs_k4dryoUbWlhCmNVY?fbclid=IwAR1crXrh9q47ywjW5ZM5OZXlKdg3qXeSTOaRZZEovdyjIPDcylPavx86MDk) cooperative campaign.
 
